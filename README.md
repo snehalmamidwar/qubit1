@@ -1,5 +1,8 @@
 Process Notes
 
+VM Visualiser Wireframe virtual view:
+https://www.figma.com/design/R4Z5Pxuk2UTdIdNwYOjwOr/VM-Visualiser-Wireframe?node-id=0-1&m=dev&t=nnDjnoxsiAN7lr5b-1
+
 **Approach**
 - Created a simple React + Next.js app.
 - Hard-coded VM data in state.
